@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhiatsisl
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Express
-- 💞️ 
+- 🌱 I’m currently learning Node(Express, Mongo)
 
 <!---
 abhiatsisl/abhiatsisl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
